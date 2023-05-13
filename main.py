@@ -12,18 +12,19 @@ urllib3.disable_warnings()
 
 def write_check_results_to_file(results:list, w_file='check_results') -> None:
     """Function to write results to output file for farther usage"""
+    w_file += datetime.datetime.now().strftime('%Y_%m_%d-%H_%M_%S')+'.csv'
     if not os.path.isfile(w_file):
         with open(w_file, 'a') as fw:
-            fw.write(f'proxy; status code; availability; duration of request in seconds; current date; host) \n')
+            fw.write(f'proxy; status code; availability; duration of request in seconds; current date; host \n')
     with open(w_file, 'a') as fw:
-        [fw.write(f'{proxies_status_check[0][i]};'
-                  f'{proxies_status_check[1][i][0]};'
-                  f'{proxies_status_check[1][i][1]};'
-                  f'{proxies_status_check[1][i][2]};'
-                  f'{proxies_status_check[1][i][3].strftime("%Y.%m.%d %H-%M-%S")};'
-                  f'{proxies_status_check[1][i][4]}'
+        [fw.write(f'{results[0][i]};'
+                  f'{results[1][i][0]};'
+                  f'{results[1][i][1]};'
+                  f'{results[1][i][2]};'
+                  f'{results[1][i][3].strftime("%Y.%m.%d %H-%M-%S")};'
+                  f'{results[1][i][4]}'
                   f' \n')
-            for i in range(0, len(proxies_status_check[0]))]
+            for i in range(0, len(results[0]))]
 
 def load_proxies(p_file='proxies.txt') -> list:
     """
@@ -134,9 +135,9 @@ def group_proxies_testing(proc_proxies_list: list, proc_host: str) -> list:
 
 
 if __name__ == '__main__':
-    host = 'http://www.httpbin.org/ip'  # http host
+    #host = 'http://www.httpbin.org/ip'  # http host
     #host = 'https://www.google.com'
-    #host = 'https://mir-kvestov.ru'  # htts host
+    host = 'https://mir-kvestov.ru'  # https host
     proxies_list = load_proxies()
     proxies_status_check = group_proxies_testing(proxies_list, host)
     write_check_results_to_file(proxies_status_check)
