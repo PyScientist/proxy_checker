@@ -1,0 +1,66 @@
+socks5://72.221.164.34:60671 # USA San-Diego Cox Communications Inc.
+socks5://213.33.235.194:1080 # Russian Federation St Petersburg
+socks5://116.107.250.214:5315 # Vietnam Hai Duong, 1140 мс, SOCKS4, SOCKS5, Высокая, 18 минут
+socks5://116.107.250.214:5318 # Vietnam Hai Duong, 1340 мс, SOCKS5, Высокая, 30 минут
+socks5://176.117.237.132:1080 # Russian Federation Irkutsk, 5100 мс, SOCKS5, Высокая, 52 минуты
+socks5://69.61.200.104:36181 # United States Cincinnati, 4820 мс, SOCKS4, SOCKS5, Высокая, 52 минуты
+socks5://66.42.224.229:41679 # United States Cincinnati, 4640 мс, SOCKS4, SOCKS5, Высокая, 52 минуты
+socks5://159.89.228.253:38172 # United StatesNorth Bergen, 960 мс, SOCKS4, SOCKS5, Высокая, 52 минуты
+socks5://72.221.172.203:4145 # United States, 2120 мс, SOCKS5, Высокая, 52 минуты
+socks5://67.201.33.10:25283 # United States Pico Rivera, 2140 мс, SOCKS4, SOCKS5, Высокая, 52 минуты
+socks5://98.162.25.29:31679 # United States, 4120 мс, SOCKS5, Высокая, 52 минуты
+socks5://68.71.254.6:4145 # Canada Etobicoke, 1820 мс, SOCKS4, SOCKS5, Высокая, 52 минуты
+socks5://72.37.217.3:4145 # United States, 5100 мс, SOCKS4, SOCKS5, Высокая, 52 минуты
+socks5://142.54.231.38:4145 # United States, 1140 мс, SOCKS4, SOCKS5, Высокая, 52 минуты
+socks5://72.206.181.97:64943 # United States, 940 мс, SOCKS4, SOCKS5, Высокая, 52 минуты
+socks5://142.54.232.6:4145 # United States, 2140 мс, SOCKS4, SOCKS5, Высокая, 52 минуты
+socks5://142.54.236.97:4145 # United States, 2420 мс, SOCKS4, SOCKS5, Высокая, 52 минуты
+socks5://142.54.229.249:4145 # United States, 1140 мс, SOCKS4, SOCKS5, Высокая, 52 минуты
+socks5://192.111.137.34:18765 # United States, 4120 мс, SOCKS5, Высокая, 52 минуты
+socks5://46.36.20.89:1080 # Russian Federation Yekaterinburg, 3700 мс, SOCKS5, Высокая, 52 минуты
+socks5://142.54.228.193:4145 # United States, 2960 мс, SOCKS4, SOCKS5, Высокая, 52 минуты
+socks5://103.167.134.71:7890 # Hong Kong Wanchai, 1320 мс, SOCKS5, Высокая, 52 минуты
+socks5://174.64.199.82:4145 # United States, 920 мс, SOCKS4, SOCKS5, Высокая, 52 минуты
+socks5://167.71.241.136:33299 # United States Clifton, 620 мс, SOCKS4, SOCKS5, Высокая, 52 минуты
+socks5://162.19.7.59:22620 # France Damery, 3680 мс, SOCKS4, SOCKS5, Высокая, 55 минут
+socks5://107.152.98.5:4145 # United States Dallas, 5100 мс, SOCKS5, Высокая, 1 ч. 10 мин.
+socks5://159.203.127.9:64825 # United States Clifton, 5100 мс, SOCKS4, SOCKS5, Высокая, 1 ч. 10 мин.
+socks5://104.37.135.145:4145 # United States, 5100 мс, SOCKS4, SOCKS5, Высокая, 1 ч. 10 мин.
+socks5://66.135.10.224:10086 # United States Piscataway, 2180 мс, SOCKS4, SOCKS5, Высокая, 1 ч. 10 мин.
+socks5://188.165.225.139:27255 # France, 2780 мс, SOCKS4, SOCKS5, Высокая, 1 ч. 10 мин.
+socks5://72.37.216.68:4145 # United States, 5100 мс, SOCKS5, Высокая, 1 ч. 12 мин.
+socks5://176.99.2.43:1080 # Russian Federation, 1520 мс, SOCKS4, SOCKS5, Высокая, 1 ч. 12 мин.
+socks5://198.8.84.3:4145 # Canada, 2140 мс, SOCKS4, SOCKS5, Высокая, 1 ч. 12 мин.
+socks5://66.29.128.245:39342 # United States, 1280 мс, SOCKS4, SOCKS5, Высокая, 1 ч. 12 мин.
+socks5://74.119.147.209:4145 # United States, 900 мс, SOCKS4, SOCKS5, Высокая, 1 ч. 12 мин.
+socks5://174.64.199.79:4145 # United States, 940 мс, SOCKS4, SOCKS5, Высокая, 1 ч. 12 мин.
+socks5://198.199.86.11:1080 # United States North Bergen, 1120 мс, SOCKS5, Высокая, 1 ч. 12 мин.
+socks5://82.64.205.231:1080 # France Plerin, 3440 мс, SOCKS5, Высокая, 1 ч. 12 мин.
+socks5://205.240.77.164:4145 # United States, 1180 мс, SOCKS5, Высокая, 1 ч. 12 мин.
+socks5://161.35.6.221:33080 # United States North Bergen, 1300 мс, SOCKS5, Высокая, 1 ч. 12 мин.
+socks5://157.245.244.64:33080 # United States North Bergen, 620 мс, SOCKS5, Высокая, 1 ч. 12 мин.
+socks5://139.59.1.14:1080 # India Bengaluru, 1540 мс, SOCKS5, Высокая, 1 ч. 12 мин.
+socks5://172.106.19.155:35950 # United States Ashburn, 700 мс, SOCKS4, SOCKS5, Высокая, 1 ч. 12 мин.
+socks5://157.245.244.42:33080 # United States North Bergen, 640 мс, SOCKS5, Высокая, 1 ч. 12 мин.
+socks5://159.89.84.225:33080 # United States North Bergen, 980 мс, SOCKS5, Высокая, 1 ч. 12 мин.
+socks5://134.209.210.83:33080 # United States North Bergen, 600 мс, SOCKS5, Высокая, 1 ч. 12 мин.
+socks5://157.230.224.92:33080 # United States North Bergen, 640 мс, SOCKS5, Высокая, 1 ч. 12 мин.
+socks5://184.178.172.3:4145 # United States Choctaw, 1060 мс, SOCKS5, Высокая, 1 ч. 13 мин.
+socks5://192.111.135.18:18301 # United States Los Angeles, 1880 мс, SOCKS4, SOCKS5, Высокая, 1 ч. 13 мин.
+socks5://142.54.239.1:4145 # United States, 1100 мс, SOCKS4, SOCKS5, Высокая, 1 ч. 13 мин.
+socks5://192.111.134.10:4145 # Canada, 1120 мс, SOCKS4, SOCKS5, Высокая, 1 ч. 13 мин.
+socks5://185.61.38.128:1080 # Russian Federation Moscow, 3300 мс, SOCKS5, Высокая, 1 ч. 13 мин.
+socks5://107.181.168.145:4145 # United States, 4140 мс, SOCKS4, SOCKS5, Высокая, 1 ч. 13 мин.
+socks5://95.172.57.160:1080 # Russian Federation Nizhniy Novgorod, 260 мс, SOCKS5, Высокая, 1 ч. 13 мин.
+socks5://112.199.222.96:8111 # Singapore, 1140 мс, SOCKS5, Высокая, 1 ч. 13 мин.
+socks5://94.72.61.46:1080 # Russian Federation St Petersburg, 80 мс, SOCKS5, Высокая, 1 ч. 13 мин.
+socks5://176.114.131.200:1080 # Russian Federation Bratsk, 460 мс, SOCKS5, Высокая, 1 ч. 13 мин.
+socks5://208.102.51.6:58208 # United States Alexandria, 5100 мс, SOCKS5, Высокая, 1 ч. 13 мин.
+socks5://104.200.152.30:4145 # United States Los Angeles, 3280 мс, SOCKS4, SOCKS5, Высокая, 1 ч. 13 мин.
+socks5://192.252.214.20:15864 # Canada Toronto, 3880 мс, SOCKS4, SOCKS5, Высокая, 1 ч. 14 мин.
+socks5://184.185.2.12:4145 # United States, 980 мс, SOCKS4, SOCKS5, Высокая, 1 ч. 14 мин.
+socks5://199.58.185.9:4145 # United States, 1040 мс, SOCKS5, Высокая, 1 ч. 14 мин.
+socks5://184.178.172.5:15303 # United States, 900 мс, SOCKS4, SOCKS5, Высокая, 1 ч. 14 мин.
+socks5://199.116.114.11:4145 # United States, 3320 мс, SOCKS4, SOCKS5, Высокая, 1 ч. 15 мин.
+socks5://192.252.209.155:14455 # Canada Toronto, 1940 мс, SOCKS4, SOCKS5, Высокая, 1 ч. 15 мин.
+socks5://107.181.161.81:4145 # United States, 1880 мс, SOCKS4, SOCKS5, Высокая, 1 ч. 15 мин
