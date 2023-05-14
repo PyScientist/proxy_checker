@@ -9,7 +9,6 @@ import art
 
 urllib3.disable_warnings()
 
-
 def write_check_results_to_file(results:list, w_file='check_results') -> None:
     """Function to write results to output file for farther usage"""
     w_file += datetime.datetime.now().strftime('%Y_%m_%d-%H_%M_%S')+'.csv'
@@ -80,7 +79,7 @@ def test_single_proxy(proc_host: str, proxy: str) -> tuple:
 
     try:
         start_time = time.time()
-        response = session.get(proc_host, headers=app_header, verify=False)
+        response = session.get(proc_host, headers=app_header, verify=False, timeout=60)
         diff_time = (time.time()-start_time).__round__(2)
         status_code = response.status_code
         if response.status_code == 200:
