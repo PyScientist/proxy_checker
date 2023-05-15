@@ -1,38 +1,3 @@
-http://159.203.84.241:3128 # United States Clifton, 600 мс, HTTPS, Высокая, 1 минута
-http://20.206.106.192:8123 # Brazil Campinas, 1100 мс, HTTPS, Высокая, 4 минуты
-http://20.205.61.143:8123 # Hong Kong Central, 1100 мс, HTTPS, Высокая, 4 минуты
-http://20.111.54.16:8123 # France Paris, 240 мс, HTTPS, Высокая, 4 минуты
-http://64.225.4.12:9989 # United States Clifton, 5100 мс, HTTPS, Высокая, 22 минуты
-http://64.225.8.82:9989 # United States Clifton, 3860 мс, HTTPS, Высокая, 22 минуты
-http://64.225.4.63:9997 # United States Clifton, 3580 мс, HTTP, HTTPS, Высокая, 22 минуты
-http://64.225.8.118:9998 # United States Clifton, 1180 мс, HTTPS, Высокая, 22 минуты
-http://64.225.4.12:9999 # United States Clifton, 780 мс, HTTP, HTTPS, Высокая, 28 минут
-http://64.225.4.29:9864 # United States Clifton, 1080 мс, HTTP, HTTPS, Высокая, 32 минуты
-http://51.159.0.236:3128 # France Paris, 1540 мс, HTTP, HTTPS, Высокая, 39 минут
-http://103.69.108.78:8191 # Philippines Santiago, 2400 мс, HTTP, HTTPS, Высокая, 40 минут
-http://64.225.8.82:9987 # United States Clifton, 4400 мс, HTTP, HTTPS, Высокая, 40 минут
-http://64.225.8.142:9990 # United States Clifton, 2560 мс, HTTP, HTTPS, Высокая, 41 минута
-http://206.189.98.104:8118 # Netherlands Amsterdam, 400 мс, HTTPS, Высокая, 41 минута
-http://129.154.225.163:8100 # India Mumbai, 1700 мс, HTTP, HTTPS, Высокая, 44 минуты
-http://20.210.113.32:80 # Japan Tokyo, 1300 мс, HTTPS, Высокая, 44 минуты
-http://34.146.64.228:3128 # Japan Tokyo, 1040 мс, HTTP, HTTPS, Высокая, 44 минуты
-http://20.206.106.192:80 # Brazil Campinas, 1380 мс, HTTPS, Высокая, 44 минуты
-http://169.55.89.6:80 # United States Ashburn, 620 мс, HTTPS, Высокая, 44 минуты
-http://20.111.54.16:80 # France Paris, 240 мс, HTTPS, Высокая, 44 минуты
-http://157.245.27.9:3128 # Germany Frankfurt am Main, 2960 мс, HTTPS, Высокая, 49 минут
-http://41.169.72.4:8090 # South Africa Alberton, 1400 мс, HTTP, HTTPS, Высокая, 53 минуты
-http://20.24.43.214:80 # Singapore Singapore, 1040 мс, HTTPS, Высокая, 53 минуты
-http://20.205.61.143:80 # Hong Kong Central, 1100 мс, HTTPS, Высокая, 53 минуты
-http://5.75.233.147:8080 # Germany, 200 мс, HTTPS, Высокая, 1 ч. 30 мин.
-http://209.141.58.184:8080 # United States Las Vegas, 1400 мс, HTTPS, Высокая, 1 ч. 32 мин.
-http://89.43.31.134:3128 # Turkey, 500 мс, HTTPS, Высокая, 1 ч. 41 мин.
-http://95.56.254.139:3128 # Kazakstan Almaty, 320 мс, HTTPS, Высокая, 1 ч. 41 мин.
-http://169.55.89.6:8123 # United States Ashburn, 620 мс, HTTPS, Высокая, 1 ч. 43 мин.
-http://102.130.192.231:8080 # Angola Luanda, 3900 мс, HTTPS, Высокая, 1 ч. 51 мин.
-http://64.225.4.29:9816 # United States Clifton, 1200 мс, HTTPS, Высокая, 1 ч. 52 мин.
-http://157.245.149.65:8080 # Singapore, 900 мс, HTTPS, Высокая, 1 ч. 59 мин.
-http://95.216.146.53:8080 # Finland Helsinki, 5020 мс, HTTPS, Высокая, 2 ч. 28 мин.
-http://64.225.8.118:9993 # United States Clifton, 980 мс, HTTPS, Высокая, 2 ч. 28 мин.
 socks5://72.221.164.34:60671 # USA San-Diego Cox Communications Inc.
 socks5://213.33.235.194:1080 # Russian Federation St Petersburg
 socks5://116.107.250.214:5315 # Vietnam Hai Duong, 1140 мс, SOCKS4, SOCKS5, Высокая, 18 минут
@@ -99,14 +64,3 @@ socks5://184.178.172.5:15303 # United States, 900 мс, SOCKS4, SOCKS5, Высо
 socks5://199.116.114.11:4145 # United States, 3320 мс, SOCKS4, SOCKS5, Высокая, 1 ч. 15 мин.
 socks5://192.252.209.155:14455 # Canada Toronto, 1940 мс, SOCKS4, SOCKS5, Высокая, 1 ч. 15 мин.
 socks5://107.181.161.81:4145 # United States, 1880 мс, SOCKS4, SOCKS5, Высокая, 1 ч. 15 мин
-socks4://46.188.53.61:3629 # Russian Federation Moscow, 1080 мс, SOCKS4, Высокая, 12 минут
-socks4://46.8.60.2:1080 # Russian Federation Belgorod, 3180 мс, SOCKS4, Высокая, 12 минут
-socks4://94.247.241.70:51006 # Russian Federation St Petersburg, 3100 мс, SOCKS4, Высокая, 12 минут
-socks4://109.197.55.234:1080 # Russian Federation Tel'mana, 60 мс, SOCKS4, Высокая, 12 минут
-socks4://109.188.86.168:4145 # Russian Federation Moscow, 700 мс, SOCKS4, Высокая, 12 минут
-socks4://94.253.95.241:3629 # Russian Federation Ivanteyevka, 20 мс, SOCKS4, Высокая, 12 минут
-socks4://176.197.91.178:4153 # Russian Federation Prokop'yevsk, 260 мс, SOCKS4, Высокая, 12 минут
-socks4://185.144.138.212:3629 # Russian Federation Moscow, 20 мс, SOCKS4, Высокая, 12 минут
-socks4://212.34.39.62:1080 # Russian Federation Shatura, 20 мс, SOCKS4, Высокая, 12 минут
-socks4://95.86.206.6:8080 # Russian Federation Yaroslavl, 100 мс, SOCKS4, Высокая, 1 ч. 0 мин.
-socks4://31.207.225.220:5678 # Russian Federation Kartaly, 120 мс, SOCKS4, Высокая, 1 ч. 13 мин.
